@@ -1,0 +1,1 @@
+docker pull drone/drone:1.0.0-rc.1
